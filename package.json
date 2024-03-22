@@ -1,0 +1,26 @@
+{
+  "name": "fugitexercitationem",
+  "version": "1.0.0",
+  "description": "Converts application/x-www-form-urlencoded keys to plain JS object",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MilesTreutel/fugitexercitationem.git"
+  },
+  "keywords": [
+    "object",
+    "aut",
+    "x-www-form-urlencoded"
+  ],
+  "author": "MelvinRenner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MilesTreutel/fugitexercitationem.git/issues"
+  },
+  "devDependencies": {
+    "nodeunit": "^0.9.1"
+  }
+}
